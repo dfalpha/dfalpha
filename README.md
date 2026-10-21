@@ -6,6 +6,8 @@ Product & engineering executive in Ottawa. Nineteen years at Ross Video, from so
 
 Most of my current work is private: [Slate](https://github.com/dfalpha/slate-overview), a home control system (wall-mounted panels, one local server, no app to open), and the home-automation platform it grew out of. Publishing the source for the locks, cameras and access systems in my own house would be a questionable demonstration of engineering judgment, so the repos stay private. The commit activity is visible on my profile; the story, architecture and numbers are on my site.
 
+**Slate by the numbers** (measured 20 October 2026, ten and a half weeks after the first commit): in production in my house since week six · 2,700+ commits · 1,900+ merged pull requests · ~920k lines of TypeScript, Kotlin and Swift · ~19,700 automated tests · 26 device and service integrations · 7 codebases (server, wall tablet, admin, viewer, phone web app, Android phone, iPhone).
+
 Public:
 - [slatepanel.app](https://slatepanel.app) — the idea, and a form to tell me whether you would want it in your house
 - [slate-overview](https://github.com/dfalpha/slate-overview) — what Slate is, what it controls, and how it is built
